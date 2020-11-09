@@ -10,7 +10,35 @@ body {
 }
 
 .subjectlinks {
-    background-color: rgba(88, 88, 88, 0.8);
+    padding-top: 30px;
+    background-color: #212121;
+    color: azure;
+    text-align: center;
+}
+
+.subjectlinks li {
+    list-style-type: none;
+    color: azure;
+}
+
+.subjectlinks td {
+    margin: 10px, 0;
+    padding: 10px 0;
+}
+
+.subjectlinks h2 {
+    padding-bottom: 10px;
+}
+
+.subjectlinks a {
+    text-decoration: none;
+    font-size: x-large;
+    color: azure;
+    font-size: 1.2em;
+}
+
+.subjectlinks li:hover {
+    background-color: #3a3a3a;
 }
 
 .navnav {
@@ -21,6 +49,12 @@ body {
     color: azure;
 }
 
+.navnav li:hover {
+    background-color: #3a3a3a;
+}
+
 .moreinfo {
-    background-color: blanchedalmond;
+    background-color: rgba(88, 88, 88, 0.8);
+    padding: 30px;
+    color: black;
 }
