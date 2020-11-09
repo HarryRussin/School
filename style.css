@@ -1,0 +1,26 @@
+body {
+    font-family: Roboto;
+}
+
+.main {
+    text-align: center;
+    padding: 100px;
+    font-family: Quicksand;
+    background-color: #065464;
+}
+
+.subjectlinks {
+    background-color: rgba(88, 88, 88, 0.8);
+}
+
+.navnav {
+    background-color: #212121;
+}
+
+.navnav a {
+    color: azure;
+}
+
+.moreinfo {
+    background-color: blanchedalmond;
+}
