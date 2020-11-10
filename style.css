@@ -11,7 +11,7 @@ body {
 }
 
 .subjectlinks {
-    padding-top: 30px;
+    padding: 30px 0;
     background-color: #212121;
     color: azure;
     text-align: center;
@@ -55,7 +55,7 @@ body {
     background-color: rgba(88, 88, 88, 0.8);
     padding: 30px;
     color: black;
-    font-family: Roboto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: none;
 }
 
@@ -63,7 +63,13 @@ body {
     color: black;
 }
 
-.footer {
-    margin: 0%;
-    padding: 10px 0;
+.linktohw {
+    background-color: rgb(0, 0, 0);
+    padding: 100px 0;
+    text-align: center;
+    color: azure;
+}
+
+.linktohw h2 {
+    padding-bottom: 30px;
 }
